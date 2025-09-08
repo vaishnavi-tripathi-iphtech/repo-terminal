@@ -1,1 +1,1 @@
-# Hello World via Terminal
+# Learning GitHub via Terminal
