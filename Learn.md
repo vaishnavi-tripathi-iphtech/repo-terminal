@@ -12,11 +12,11 @@ step-by-step guide to create and manage a GitHub repository entirely via the ter
 
 ## 2. Set Up Local Project
 
-# Create a new folder and navigate into it
+### Create a new folder and navigate into it
 mkdir hello-world-terminal
 cd hello-world-terminal
 
-# Initialize git
+### Initialize git
 git init
 
 ## 3. Add your first file
@@ -35,11 +35,11 @@ git push -u origin main
 
 ## 7. Basic Daily Operations
 
-# Check repo status
+### Check repo status
 
 git status
 
-# Add a new file
+### Add a new file
 
 echo "print('Hello, GitHub!')" > app.py
 git add app.py
@@ -47,11 +47,11 @@ git commit -m "Add app.py with hello message"
 git push origin main
 
 
-# Pull latest changes
+### Pull latest changes
 
 git pull origin main
 
-# Create a new feature branch
+### Create a new feature branch
 
 git checkout -b feature/new-feature
 
