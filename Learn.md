@@ -68,3 +68,15 @@ git add .
 git commit -m "Implement new feature"
 git push origin feature/new-feature
 ```
+### Pull Request
+
+Can't merge locally. Instead, you open a Pull Request in GitHub UI.
+
+`Optional Local Merge`
+If you want to merge locally (before or instead of creating a Pull Request)
+```
+git checkout main
+git pull origin main  
+git merge feature/new-feature
+git push origin main
+```
