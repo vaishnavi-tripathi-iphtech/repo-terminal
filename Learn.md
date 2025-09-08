@@ -4,9 +4,9 @@ step-by-step guide to create and manage a GitHub repository entirely via the ter
 
 
 ## 1. Create a New Repo on GitHub
-1. Go to **GitHub → New Repository**.  
+1. Go to **GitHub.. New Repository**.  
 2. Name it, e.g., `repo-terminal`.  
-3. Leave it empty (don’t initialize with README, .gitignore, or license).  
+3. Leave it empty.  
 4. Copy the **HTTPS URL** of the repo.  
 
 
